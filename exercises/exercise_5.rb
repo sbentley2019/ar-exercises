@@ -6,5 +6,3 @@ require_relative './exercise_4'
 
 puts "Exercise 5"
 puts "----------"
-
-# Your code goes here ...
